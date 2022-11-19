@@ -1,1 +1,1 @@
-# neo-bank
+# neo-bank - landing page
